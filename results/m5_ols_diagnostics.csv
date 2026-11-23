@@ -1,0 +1,9 @@
+,value
+Breusch-Pagan LM,324.50046
+BP p,0.0
+Residual skewness,-0.44854
+Residual excess kurtosis,1.14175
+Jarque-Bera p,0.0
+Max Cook's D,0.007
+# Cook's D > 4/n,180.0
+Durbin-Watson,0.71247

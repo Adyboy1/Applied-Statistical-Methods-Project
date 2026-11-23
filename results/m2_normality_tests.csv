@@ -1,0 +1,97 @@
+variable,transform,sample,test,statistic,p_value,decision,skewness,kurtosis
+SO2,none,full,Shapiro-Wilk,0.8571,3.80e-50,Reject H0,1.27,8.3
+SO2,none,full,D'Agostino-Pearson,1230.9673,5.00e-268,Reject H0,1.27,8.3
+SO2,none,full,Anderson-Darling,143.313,crit5%=0.752,Reject H0,1.27,8.3
+SO2,none,full,KS (Lilliefors),0.162,1.00e-03,Reject H0,1.27,8.3
+SO2,none,n=200,Shapiro-Wilk,0.8721,5.81e-12,Reject H0,0.65,-0.54
+SO2,none,n=200,D'Agostino-Pearson,16.5613,2.53e-04,Reject H0,0.65,-0.54
+SO2,none,n=200,Anderson-Darling,9.1338,crit5%=0.749,Reject H0,0.65,-0.54
+SO2,none,n=200,KS (Lilliefors),0.1801,1.00e-03,Reject H0,0.65,-0.54
+SO2,log,full,Shapiro-Wilk,0.8582,5.07e-50,Reject H0,-0.16,-1.53
+SO2,log,full,D'Agostino-Pearson,22146.8285,0.00e+00,Reject H0,-0.16,-1.53
+SO2,log,full,Anderson-Darling,210.6335,crit5%=0.752,Reject H0,-0.16,-1.53
+SO2,log,full,KS (Lilliefors),0.1936,1.00e-03,Reject H0,-0.16,-1.53
+SO2,log,n=200,Shapiro-Wilk,0.8343,7.86e-14,Reject H0,-0.23,-1.6
+SO2,log,n=200,D'Agostino-Pearson,2034.2314,0.00e+00,Reject H0,-0.23,-1.6
+SO2,log,n=200,Anderson-Darling,13.5565,crit5%=0.749,Reject H0,-0.23,-1.6
+SO2,log,n=200,KS (Lilliefors),0.21,1.00e-03,Reject H0,-0.23,-1.6
+SO2,Box-Cox (λ=0.16),full,Shapiro-Wilk,0.8693,1.17e-48,Reject H0,-0.07,-1.45
+SO2,Box-Cox (λ=0.16),full,D'Agostino-Pearson,28120.2178,0.00e+00,Reject H0,-0.07,-1.45
+SO2,Box-Cox (λ=0.16),full,Anderson-Darling,192.5246,crit5%=0.752,Reject H0,-0.07,-1.45
+SO2,Box-Cox (λ=0.16),full,KS (Lilliefors),0.188,1.00e-03,Reject H0,-0.07,-1.45
+SO2,Box-Cox (λ=0.16),n=200,Shapiro-Wilk,0.8543,6.97e-13,Reject H0,0.04,-1.19
+SO2,Box-Cox (λ=0.16),n=200,D'Agostino-Pearson,87.3113,1.10e-19,Reject H0,0.04,-1.19
+SO2,Box-Cox (λ=0.16),n=200,Anderson-Darling,11.8261,crit5%=0.749,Reject H0,0.04,-1.19
+SO2,Box-Cox (λ=0.16),n=200,KS (Lilliefors),0.2103,1.00e-03,Reject H0,0.04,-1.19
+NO2,none,full,Shapiro-Wilk,0.7857,3.24e-57,Reject H0,2.06,5.23
+NO2,none,full,D'Agostino-Pearson,1593.6859,0.00e+00,Reject H0,2.06,5.23
+NO2,none,full,Anderson-Darling,249.6318,crit5%=0.752,Reject H0,2.06,5.23
+NO2,none,full,KS (Lilliefors),0.2074,1.00e-03,Reject H0,2.06,5.23
+NO2,none,n=200,Shapiro-Wilk,0.8304,5.28e-14,Reject H0,1.53,1.94
+NO2,none,n=200,D'Agostino-Pearson,59.6023,1.14e-13,Reject H0,1.53,1.94
+NO2,none,n=200,Anderson-Darling,11.1668,crit5%=0.749,Reject H0,1.53,1.94
+NO2,none,n=200,KS (Lilliefors),0.1758,1.00e-03,Reject H0,1.53,1.94
+NO2,log,full,Shapiro-Wilk,0.9543,7.40e-33,Reject H0,0.56,0.26
+NO2,log,full,D'Agostino-Pearson,181.523,3.83e-40,Reject H0,0.56,0.26
+NO2,log,full,Anderson-Darling,54.2769,crit5%=0.752,Reject H0,0.56,0.26
+NO2,log,full,KS (Lilliefors),0.1124,1.00e-03,Reject H0,0.56,0.26
+NO2,log,n=200,Shapiro-Wilk,0.9444,5.68e-07,Reject H0,0.56,0.15
+NO2,log,n=200,D'Agostino-Pearson,10.3349,0.006,Reject H0,0.56,0.15
+NO2,log,n=200,Anderson-Darling,3.0921,crit5%=0.749,Reject H0,0.56,0.15
+NO2,log,n=200,KS (Lilliefors),0.1118,1.00e-03,Reject H0,0.56,0.15
+NO2,Box-Cox (λ=-0.40),full,Shapiro-Wilk,0.9691,8.63e-28,Reject H0,0.01,-0.19
+NO2,Box-Cox (λ=-0.40),full,D'Agostino-Pearson,6.8294,0.033,Reject H0,0.01,-0.19
+NO2,Box-Cox (λ=-0.40),full,Anderson-Darling,40.9969,crit5%=0.752,Reject H0,0.01,-0.19
+NO2,Box-Cox (λ=-0.40),full,KS (Lilliefors),0.1026,1.00e-03,Reject H0,0.01,-0.19
+NO2,Box-Cox (λ=-0.40),n=200,Shapiro-Wilk,0.9729,6.55e-04,Reject H0,0.08,-0.49
+NO2,Box-Cox (λ=-0.40),n=200,D'Agostino-Pearson,3.0396,0.219,Do not reject,0.08,-0.49
+NO2,Box-Cox (λ=-0.40),n=200,Anderson-Darling,1.3362,crit5%=0.749,Reject H0,0.08,-0.49
+NO2,Box-Cox (λ=-0.40),n=200,KS (Lilliefors),0.0696,0.021,Reject H0,0.08,-0.49
+PM10,none,full,Shapiro-Wilk,0.8219,6.27e-54,Reject H0,2.72,17.46
+PM10,none,full,D'Agostino-Pearson,2438.2383,0.00e+00,Reject H0,2.72,17.46
+PM10,none,full,Anderson-Darling,131.9875,crit5%=0.752,Reject H0,2.72,17.46
+PM10,none,full,KS (Lilliefors),0.1536,1.00e-03,Reject H0,2.72,17.46
+PM10,none,n=200,Shapiro-Wilk,0.9234,1.04e-08,Reject H0,1.19,2.55
+PM10,none,n=200,D'Agostino-Pearson,50.1628,1.28e-11,Reject H0,1.19,2.55
+PM10,none,n=200,Anderson-Darling,4.6228,crit5%=0.749,Reject H0,1.19,2.55
+PM10,none,n=200,KS (Lilliefors),0.1351,1.00e-03,Reject H0,1.19,2.55
+PM10,log,full,Shapiro-Wilk,0.9636,7.34e-30,Reject H0,-0.24,2.06
+PM10,log,full,D'Agostino-Pearson,220.7259,1.17e-48,Reject H0,-0.24,2.06
+PM10,log,full,Anderson-Darling,49.128,crit5%=0.752,Reject H0,-0.24,2.06
+PM10,log,full,KS (Lilliefors),0.0944,1.00e-03,Reject H0,-0.24,2.06
+PM10,log,n=200,Shapiro-Wilk,0.9556,6.81e-06,Reject H0,0.27,1.77
+PM10,log,n=200,D'Agostino-Pearson,13.6283,0.001,Reject H0,0.27,1.77
+PM10,log,n=200,Anderson-Darling,3.3354,crit5%=0.749,Reject H0,0.27,1.77
+PM10,log,n=200,KS (Lilliefors),0.1088,1.00e-03,Reject H0,0.27,1.77
+PM10,Box-Cox (λ=0.11),full,Shapiro-Wilk,0.9655,3.77e-29,Reject H0,0.03,2.09
+PM10,Box-Cox (λ=0.11),full,D'Agostino-Pearson,187.9004,1.58e-41,Reject H0,0.03,2.09
+PM10,Box-Cox (λ=0.11),full,Anderson-Darling,46.786,crit5%=0.752,Reject H0,0.03,2.09
+PM10,Box-Cox (λ=0.11),full,KS (Lilliefors),0.0866,1.00e-03,Reject H0,0.03,2.09
+PM10,Box-Cox (λ=0.11),n=200,Shapiro-Wilk,0.9545,5.20e-06,Reject H0,0.02,2.28
+PM10,Box-Cox (λ=0.11),n=200,D'Agostino-Pearson,14.6234,6.68e-04,Reject H0,0.02,2.28
+PM10,Box-Cox (λ=0.11),n=200,Anderson-Darling,2.7448,crit5%=0.749,Reject H0,0.02,2.28
+PM10,Box-Cox (λ=0.11),n=200,KS (Lilliefors),0.0899,1.00e-03,Reject H0,0.02,2.28
+PM25,none,full,Shapiro-Wilk,0.7822,1.67e-57,Reject H0,2.81,15.55
+PM25,none,full,D'Agostino-Pearson,2442.9463,0.00e+00,Reject H0,2.81,15.55
+PM25,none,full,Anderson-Darling,199.9234,crit5%=0.752,Reject H0,2.81,15.55
+PM25,none,full,KS (Lilliefors),0.172,1.00e-03,Reject H0,2.81,15.55
+PM25,none,n=200,Shapiro-Wilk,0.8434,2.09e-13,Reject H0,1.74,3.59
+PM25,none,n=200,D'Agostino-Pearson,78.4822,9.07e-18,Reject H0,1.74,3.59
+PM25,none,n=200,Anderson-Darling,9.5836,crit5%=0.749,Reject H0,1.74,3.59
+PM25,none,n=200,KS (Lilliefors),0.1654,1.00e-03,Reject H0,1.74,3.59
+PM25,log,full,Shapiro-Wilk,0.981,4.20e-22,Reject H0,0.19,0.91
+PM25,log,full,D'Agostino-Pearson,87.9173,8.11e-20,Reject H0,0.19,0.91
+PM25,log,full,Anderson-Darling,29.6229,crit5%=0.752,Reject H0,0.19,0.91
+PM25,log,full,KS (Lilliefors),0.0736,1.00e-03,Reject H0,0.19,0.91
+PM25,log,n=200,Shapiro-Wilk,0.9827,0.014,Reject H0,0.2,0.46
+PM25,log,n=200,D'Agostino-Pearson,3.2884,0.193,Do not reject,0.2,0.46
+PM25,log,n=200,Anderson-Darling,1.522,crit5%=0.749,Reject H0,0.2,0.46
+PM25,log,n=200,KS (Lilliefors),0.0864,0.001,Reject H0,0.2,0.46
+PM25,Box-Cox (λ=-0.10),full,Shapiro-Wilk,0.9822,2.08e-21,Reject H0,-0.01,0.93
+PM25,Box-Cox (λ=-0.10),full,D'Agostino-Pearson,67.2495,2.49e-15,Reject H0,-0.01,0.93
+PM25,Box-Cox (λ=-0.10),full,Anderson-Darling,26.1424,crit5%=0.752,Reject H0,-0.01,0.93
+PM25,Box-Cox (λ=-0.10),full,KS (Lilliefors),0.0761,1.00e-03,Reject H0,-0.01,0.93
+PM25,Box-Cox (λ=-0.10),n=200,Shapiro-Wilk,0.9849,0.031,Reject H0,0.27,0.04
+PM25,Box-Cox (λ=-0.10),n=200,D'Agostino-Pearson,2.7102,0.258,Do not reject,0.27,0.04
+PM25,Box-Cox (λ=-0.10),n=200,Anderson-Darling,1.2124,crit5%=0.749,Reject H0,0.27,0.04
+PM25,Box-Cox (λ=-0.10),n=200,KS (Lilliefors),0.0808,0.003,Reject H0,0.27,0.04

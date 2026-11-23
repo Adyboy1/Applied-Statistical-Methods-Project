@@ -1,0 +1,5 @@
+component,eigenvalue,% variance,cumulative %,parallel 95th pct,retain (Kaiser >1),retain (parallel)
+1,2.1696,54.2405,54.2405,1.0579,True,True
+2,0.8571,21.4279,75.6684,1.0235,False,False
+3,0.7516,18.7888,94.4572,1.0015,False,False
+4,0.2217,5.5428,100.0,0.9819,False,False

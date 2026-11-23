@@ -1,0 +1,14 @@
+,value
+comparison,Winter vs Monsoon (paired by station)
+n stations,39
+Shapiro p of differences,0.037
+mean diff (log),0.4656659486200792
+paired t,7.034950311782999
+df,38
+p,< 0.001
+ratio winter/monsoon,1.593074741636962
+95% CI ratio,"[1.39, 1.82]"
+Cohen's dz,1.1264936055363337
+Wilcoxon W,47.0
+Wilcoxon p,< 0.001
+stations higher in winter,32 of 39

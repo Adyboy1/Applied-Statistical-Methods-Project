@@ -1,0 +1,5 @@
+from,to,F,df added,p
+M1 gases,M2 + state,717.51037,2.0,0.0
+M2 + state,M3 + season,173.73258,3.0,0.0
+M3 + season,M4 + location,64.70269,2.0,0.0
+M4 + location,M5 + state×season,61.43516,6.0,0.0

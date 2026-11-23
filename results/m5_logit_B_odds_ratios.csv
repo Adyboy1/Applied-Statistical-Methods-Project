@@ -1,0 +1,7 @@
+,odds ratio,CI low,CI high,p
+Intercept,0.0,0.0,0.0,0.0
+location[T.Industrial],2.0745,1.3277,3.2416,0.0014
+location[T.Mixed],0.598,0.314,1.1388,0.1177
+log_NO2,23.2545,15.1352,35.7296,0.0
+log_SO2,2.6518,1.802,3.9023,0.0
+cold_season,9.2088,5.1529,16.4572,0.0

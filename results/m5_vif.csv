@@ -1,0 +1,10 @@
+variable,VIF
+C(state)[T.Odisha],3.07
+C(state)[T.West Bengal],3.291
+season[T.Post-monsoon],1.357
+season[T.Summer],1.426
+season[T.Winter],1.589
+location[T.Industrial],1.099
+location[T.Mixed],1.485
+log_NO2,2.585
+log_SO2,2.067

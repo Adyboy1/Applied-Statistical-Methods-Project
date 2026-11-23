@@ -1,0 +1,13 @@
+variable,transform,skewness_full,kurtosis_full,tests_rejecting_full,tests_rejecting_n=200
+SO2,none,1.27,8.3,4,4
+SO2,log,-0.16,-1.53,4,4
+SO2,Box-Cox (λ=0.16),-0.07,-1.45,4,4
+NO2,none,2.06,5.23,4,4
+NO2,log,0.56,0.26,4,4
+NO2,Box-Cox (λ=-0.40),0.01,-0.19,4,3
+PM10,none,2.72,17.46,4,4
+PM10,log,-0.24,2.06,4,4
+PM10,Box-Cox (λ=0.11),0.03,2.09,4,4
+PM25,none,2.81,15.55,4,4
+PM25,log,0.19,0.91,4,3
+PM25,Box-Cox (λ=-0.10),-0.01,0.93,4,3

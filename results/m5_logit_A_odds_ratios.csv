@@ -1,0 +1,11 @@
+,odds ratio,CI low,CI high,p
+Intercept,0.0007,0.0002,0.0019,0.0
+state[T.Odisha],52.1675,34.0696,79.8791,0.0
+state[T.West Bengal],197.564,113.3213,344.4325,0.0
+season[T.Post-monsoon],6.5099,4.6316,9.15,0.0
+season[T.Summer],6.2673,4.5303,8.6702,0.0
+season[T.Winter],17.893,12.8332,24.9478,0.0
+location[T.Industrial],1.5436,1.2133,1.9638,0.0004
+location[T.Mixed],1.1619,0.7599,1.7766,0.4884
+log_NO2,0.7493,0.5391,1.0414,0.0858
+log_SO2,3.3093,2.7915,3.9231,0.0

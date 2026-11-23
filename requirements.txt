@@ -7,3 +7,5 @@ factor_analyzer
 matplotlib
 seaborn
 jupyter
+python-pptx
+Pillow

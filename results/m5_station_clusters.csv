@@ -1,0 +1,72 @@
+station,state,city,location_class,cluster,ward_cluster
+"Gujarat_101_Naroda, G.I.D.C., Ahmadabad",Gujarat,AHMEDABAD,Industrial,1,3
+"Gujarat_102_Cadilla Bridge Narol, Ahmadabad",Gujarat,AHMEDABAD,Residential,1,3
+"Gujarat_103_L.D. Engineering College, Ahmadabad",Gujarat,AHMEDABAD,Residential,1,3
+"Gujarat_154_Shardaben Hospital, Saraspur, Ahmadabad",Gujarat,AHMEDABAD,Industrial,1,3
+"Gujarat_155_R.C. High School, Mirzapur, Ahmadabad",Gujarat,AHMEDABAD,Residential,1,3
+"Gujarat_21_S.V.R. Engg. College, Surat",Gujarat,SURAT,Residential,1,3
+"Gujarat_221_Vapi Nagar Palika, Vapi",Gujarat,VAPI,Residential,1,3
+"Gujarat_22_B.R.C. High School, Udhna, Surat",Gujarat,SURAT,Industrial,1,3
+"Gujarat_23_Near Air India Office, Surat",Gujarat,SURAT,Residential,1,3
+Gujarat_252_Rallis India Ltd. Ankaleshwar,Gujarat,ANKLESHWAR,Industrial,1,3
+"Gujarat_253_Durga Traders, Bhavanafarm Society , Ankaleshwar",Gujarat,ANKLESHWAR,Residential,1,3
+"Gujarat_257_Sardhara Industrial Corporation, Rajkot",Gujarat,RAJKOT,Industrial,1,3
+"Gujarat_319_Fisheries Office, Jamnagar.",Gujarat,JAMNAGAR,Residential,1,3
+"Gujarat_333_Dandia Bazaar, Vadodara",Gujarat,VADODARA,Residential,1,3
+"Gujarat_334_CETP Nandesari, Vadodara",Gujarat,VADODARA,Industrial,1,3
+"Gujarat_347_AZL Behrampura, Ahmadabad",Gujarat,AHMEDABAD,Residential,1,3
+"Gujarat_367_GEB, IIIrd Phase, GIDC, Vapi",Gujarat,VAPI,Industrial,1,3
+"Gujarat_374_Regional Offce, Rajkot",Gujarat,RAJKOT,Residential,1,3
+"Gujarat_50_GPCB Office, Geri Vasahat, Vadodara",Gujarat,VADODARA,Residential,1,3
+"Gujarat_813_Reliable Products, 61/62 Ilaben estate,PIRANA DUMP SITE,NAROL",Gujarat,AHMEDABAD,Mixed,1,3
+"Gujarat_814_Bhagavathi Estate ,KEVAL KANTA ROAD,RAKHIYAL",Gujarat,AHMEDABAD,Mixed,1,3
+"Gujarat_815_GIDC OFFICE TERRACE, GIDC ESTATE JHAGADIA",Gujarat,VADODARA,Mixed,1,3
+"Gujarat_SAMP_Amrut Chambers, Baroi Road, Mundra, Kutch,Bhuj",Gujarat,BHUJ,Mixed,1,3
+"Gujarat_SAMP_Dahez SEZ Part –II Office,Bharuch",Gujarat,BHARUCH,Mixed,1,3
+"Gujarat_SAMP_Eagle sanatory wares, Vill-Jambudiya,MORBI",Gujarat,MORBI,Mixed,1,3
+"Gujarat_SAMP_Fire Brigade station,MORBI",Gujarat,MORBI,Mixed,1,3
+"Gujarat_SAMP_GIDC OFFICE TERRACE, GIDC ESTATE JHAGADIA,ANKLESHWAR",Gujarat,ANKLESHWAR,Mixed,1,3
+"Gujarat_SAMP_Learning centre Saraswati Township of RIL,Bharuch",Gujarat,BHARUCH,Mixed,1,3
+"Gujarat_SAMP_Panoli Ind.Asso. & Emergency Response Centre,Plot-913/10-20, GIDC, Panoli,ANKLESHWAR",Gujarat,ANKLESHWAR,Mixed,1,3
+"Gujarat_SAMP_Tristar Intermediate, Unit-II, Plot no-3321,GIDC Sarigam,Sarigam",Gujarat,SARIGAM,Mixed,1,3
+"Gujarat_SAMP_Yasho Industries Phase-III, GIDC,VAPI",Gujarat,VAPI,Mixed,1,3
+"Gujarat_SAMP_Zydas Infratech-Pharmez matoda GIDC NH-8A, Changodar,SANAND",Gujarat,SANAND,Mixed,1,3
+"Odisha_227_IDL Police Out-post, Sonaparbat, Rourkela",Odisha,ROURKELA,Residential,4,1
+"Odisha_228_Regional Office Orissa SPCB, Rayagada",Odisha,RAYAGADA,Residential,3,2
+"Odisha_229_LPS High School, Jaykaypur",Odisha,RAYAGADA,Industrial,3,2
+"Odisha_231_NALCO Township, Angul",Odisha,ANGUL,Residential,2,4
+"Odisha_322_SPCB Building, Bhubaneshwar",Odisha,BHUBANESWAR,Residential,3,2
+"Odisha_370_Regional Office, ORPB, Rourkela",Odisha,ROURKELA,Residential,4,3
+"Odisha_423_IRC Vilage, Bhubaneshwar",Odisha,BHUBANESWAR,Residential,3,2
+"Odisha_424_Capital Police Station, Bhubaneshwar",Odisha,BHUBANESWAR,Residential,3,2
+"Odisha_425_R.O. Cuttack Office, Surya Vihar, Cuttack",Odisha,CUTTACK,Residential,3,4
+"Odisha_426_Roof of Traffic Tower, Badambadi, Cuttack",Odisha,CUTTACK,Residential,2,4
+"Odisha_427_Roof of Filter Plant, PHD Office, Modipara, sambalpur",Odisha,SAMBALPUR,Residential,4,1
+"Odisha_428_Sahadevkhunta, Balasore",Odisha,BALASORE,Residential,4,1
+"Odisha_429_Regional Office, Berhampur",Odisha,BERHAMPUR,Residential,3,2
+"Odisha_471_Coal Field Area, Talcher",Odisha,TALCHER,Industrial,2,4
+"Odisha_552_Regional Office, Keonjhar",Odisha,KEONJHAR,Residential,4,1
+"Odisha_686_Patrapada, Bhubneswar",Odisha,BHUBANESWAR,Residential,3,2
+Odisha_688_Chandrasekharpur. Bhubneswar,Odisha,BHUBANESWAR,Residential,3,2
+"Odisha_689_DIC, Office, Angaragadia",Odisha,BALASORE,Residential,4,1
+"Odisha_68_T.T.P.S.Colony, Talcher",Odisha,TALCHER,Industrial,2,4
+"Odisha_690_Rasulpur, Near Balgopalpur Industrial Area",Odisha,BALASORE,Industrial,4,1
+Odisha_691_Over the STP of M/s IFFCO Ltd.,Odisha,PARADEEP,Industrial,1,3
+Odisha_692_Over the Guest House of M/s PPL,Odisha,PARADEEP,Residential,1,3
+Odisha_693_Near Overhead Water Tank of M/s PPT,Odisha,PARADEEP,Residential,1,3
+Odisha_694_Over the Guest House of M/s NINL,Odisha,KALINGA NAGAR,Industrial,4,1
+"Odisha_695_Roof of maintenance Office of M/s NINL, Duburi",Odisha,KALINGA NAGAR,Residential,4,1
+"Odisha_696_Over the roof of Dalmia Research Institute, Rajgangpur",Odisha,ROURKELA,Residential,1,3
+"Odisha_697_Near Barabati Stadium, Tulasipur",Odisha,CUTTACK,Residential,3,4
+"Odisha_70_Industrial Estate, Angul",Odisha,ANGUL,Industrial,2,4
+"Odisha_816_Konark police station, Konark",Odisha,KONARK,Residential,3,2
+"Odisha_817_Sadar Police Station, Puri",Odisha,PURI,Residential,3,2
+Odisha_818_Town Police,Odisha,PURI,Residential,3,2
+Odisha_819_Roof of RO OFFICE BUILDING,Odisha,KALINGA NAGAR,Industrial,4,1
+"West Bengal_11_Bator, Howrah",West Bengal,HOWRAH,Residential,2,4
+"West Bengal_385_PCBL Club, Biddhanagar, Durgapur",West Bengal,DURGAPUR,Residential,2,4
+"West Bengal_473_Moulali, Kolkata",West Bengal,KOLKATA,Residential,2,4
+"West Bengal_475_Minto Park, Kolkata",West Bengal,KOLKATA,Residential,2,4
+"West Bengal_476_Behala Chowrasta,Kolkata",West Bengal,KOLKATA,Industrial,2,4
+"West Bengal_655_Barrackpore, Barrackpore",West Bengal,BARRACKPORE,Industrial,2,4
+"West Bengal_SAMP_Rooftop of Shyambazar Tennis Club Building,Shyambazar",West Bengal,KOLKATA,Mixed,2,4

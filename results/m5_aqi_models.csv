@@ -1,0 +1,3 @@
+,R²,adj R²,AIC,max VIF
+AQI ~ pollutants,0.9247,0.9246,30723.5504,3.4312
+AQI ~ factor scores,0.7813,0.7812,34747.218,1.0
