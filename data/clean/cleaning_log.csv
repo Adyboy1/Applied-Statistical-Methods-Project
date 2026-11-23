@@ -1,0 +1,9 @@
+Step,Details
+Raw data loaded,Loaded three state-wise CPCB CSV files
+Datasets combined,5970 records combined
+Empty columns removed,Completely empty columns removed from source files
+Text fields trimmed,Leading and trailing whitespace removed
+City names standardised,City names converted to uppercase for consistent grouping
+Sampling dates converted,0 invalid dates found
+Negative pollutant readings set to missing,Negative pollutant values replaced with missing values
+Complete-case filtering,2192 incomplete records excluded; 3778 records retained
