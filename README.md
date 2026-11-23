@@ -45,7 +45,7 @@ python slides/build_deck.py
 ```
 
 Notebooks 02–05 read `data/clean/air_quality_final.csv` and write to `figures/` and `results/`.
-Notebook 01 (M1) rebuilds  from . Run 04 before 05 (05 uses the factor scores).
+Notebook 01 (M1) rebuilds `data/clean/` from `data/raw/`. Run 04 before 05 (05 uses the factor scores).
 
 ## Working rules
 
